@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluuwatomilayo Fasanmi😊
 - 👀 I’m interested in Product Design and Frontend development
-- 🌱 I’m currently learning Product Design HTML/CSS
+- 🌱 I’m currently learning Product Design and HTML/CSS
 - 💞️ I’m looking to collaborate on www.linkedin.com/in/tomifasanmi
 - 📫 How to reach me @rubygrace2205@gmail.com
 
